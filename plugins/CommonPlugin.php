@@ -44,7 +44,6 @@ class CommonPlugin extends phplistPlugin
         'config_file' => array('category' => 'config'),
         'session' => array('category' => 'config'),
     );
-
     public $publicPages = array('image');
 
     public function __construct()
