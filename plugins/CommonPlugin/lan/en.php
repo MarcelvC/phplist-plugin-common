@@ -17,9 +17,9 @@
 */
 $lan = array(
 //  CommonPlugin.php
-    'view_phpinfo' => 'View phpinfo',
-    'view_config.php' => 'View config.php',
-    'view_session' => 'View session',
+    'view_phpinfo' => 'phpinfo',
+    'view_config.php' => 'config.php',
+    'view_session' => 'php session',
 //  Pager.php
     'Showing %d to %d of %d' => 'Showing %d to %d of %d',
     'Show' => 'Show',
